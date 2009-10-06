@@ -48,6 +48,17 @@
         "finished": true
     },
     "karma-test": {
-        "requester": "user"
+        "requester": "user",
+        "files": [
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/README",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/bin/karma-test.js",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/lib/karma-test.js",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/package.json",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/tmp/.gitignore",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/tmp/README",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/tmp/bin/karma-test.js",
+            "/home/hitman/Prog/karma-narwhal/packages/karma-test/tmp/lib/karma-test.js"
+        ],
+        "finished": true
     }
 }

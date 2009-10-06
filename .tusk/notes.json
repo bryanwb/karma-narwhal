@@ -1,0 +1,53 @@
+{
+    "oauth": {
+        "requester": "user",
+        "files": [
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/README.md",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/bin/all-tests.cmd",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/docs/README.txt",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/AJAX.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/accessToken.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/authorize.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/oauthTest.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/oauthTest.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/sha1.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/consumer.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/echo.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/all-wcprops",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/entries",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/text-base/oauth-example.xml.svn-base",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/oauth-example.xml",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/index.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/requestToken.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/signature.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/lib/oauth.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/package.json",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/tests/all-tests.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/README.md",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/bin/all-tests.cmd",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/docs/README.txt",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/AJAX.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/accessToken.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/authorize.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/oauthTest.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/oauthTest.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/browserTest/sha1.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/consumer.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/echo.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/all-wcprops",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/entries",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/.svn/text-base/oauth-example.xml.svn-base",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/gadget/oauth-example.xml",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/index.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/requestToken.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/examples/signature.html",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/lib/oauth.js",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/package.json",
+            "/home/hitman/Prog/karma-narwhal/packages/oauth/tests/all-tests.js"
+        ],
+        "finished": true
+    },
+    "karma-test": {
+        "requester": "user"
+    }
+}
